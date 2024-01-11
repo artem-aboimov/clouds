@@ -17,7 +17,7 @@ Cостав команды **3 кота**:
 ![Рисунок 1 – Начальные данные](./1.png)
 
 ## Ход работы
-Мы решили не использовать элементы модели Apptio TBM Unified Model (ATUM). Используя официальные документации от Amazon, мы нашли почти все сервисы, кроме Amazon ES. Мы обнаружили, что Amazon ES - это Amazon Elasticsearch Service, который компания Amazon переименовала в Amazon OpenSearch Service несколько лет назад. Поэтому вместо Amazon Elasticsearch Service мы описали Amazon OpenSearch Service и его подвиды, а также отечественные аналоги Amazon Elasticsearch Service и Amazon OpenSearch Service. 
+Используя официальные документации от Amazon, мы нашли почти все сервисы, кроме Amazon ES. Мы обнаружили, что Amazon ES - это Amazon Elasticsearch Service, который компания Amazon переименовала в Amazon OpenSearch Service несколько лет назад. Поэтому вместо Amazon Elasticsearch Service мы описали Amazon OpenSearch Service и его подвиды, а также отечественные аналоги Amazon Elasticsearch Service и Amazon OpenSearch Service. 
  
  Не для всех сервисов от Amazon удалось найти отечественные аналоги.
 ## Описание сервисов AWS
